@@ -6,4 +6,4 @@ function timerMethod() {
 	console.log("Zendesk Refresh Triggered");
 }
 //Refresh every 60 seconds
-var timerId = setInterval(timerMethod, 60 * 1000); 
+var timerId = setInterval(timerMethod, 3 * 1000); 
